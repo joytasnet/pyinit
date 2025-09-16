@@ -20,4 +20,4 @@ Windows 用のコンソールアプリです。
 ---
 
 ## 更新履歴
-更新内容の詳細は [Releases ページ](https://github.com/<ユーザー>/<リポジトリ>/releases/latest) をご覧ください。
+更新内容の詳細は [Releases ページ](https://github.com/joytasnet/pyinit/releases/latest) をご覧ください。
