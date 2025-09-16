@@ -7,8 +7,7 @@ Windows 用のコンソールアプリです。
 
 ## 💾 ダウンロード
 
-[⬇️ **最新版 EXE をダウンロード**](https://github.com/joytasnet/pyinit/releases/latest/download/pyinittest.exe)
-
+[⬇️ **最新版 EXE をダウンロード**]([https://github.com/joytasnet/pyinit/releases/latest/download/pyinsttest.exe])
 > 上記リンクは `releases/latest` を利用しているため、  
 > 常に最新リリースの `<ファイル名>` を取得できます。
 
